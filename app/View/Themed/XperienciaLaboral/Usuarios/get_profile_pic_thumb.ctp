@@ -1,0 +1,1 @@
+<?php echo $this->PhpThumb->url('img/profile_pics/'.$user_id.'.jpg', array('w' => $width, 'h' => $height, 'zc' => 1)); ?>
